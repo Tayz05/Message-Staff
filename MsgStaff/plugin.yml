@@ -1,0 +1,14 @@
+name: MsgStaff
+main: MsgStaff\Main
+version: 1.0.0
+api: 5.0.0
+author: Tayz
+commands:
+  msgstaff:
+    description: Envoyer un message en titre à un joueur
+    usage: /msgstaff {Player} {message}
+    permission: msgstaff.use
+permissions:
+  msgstaff.use:
+    description: Permet d'envoyer un message en titre à un joueur
+    default: op
