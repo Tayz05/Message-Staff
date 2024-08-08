@@ -12,7 +12,9 @@
 *Joueur introuvable.* Cela signifie probablement que le joueur est déconnecté ou que vous avez mal écrit son pseudo.
 
 **Permissions**
+
 La permission pour utiliser la commande est *msgstaff.use*.
 
 **Configuration**
+
 Il n'y a pas de configuration pour le moment.
