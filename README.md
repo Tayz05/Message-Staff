@@ -1,7 +1,5 @@
-Bonjour, je vous présente mon plugin de message pour les staffs.
-
 # **Comment ça marche ?**
-Quand vous êtes en jeu et que le plugin est chargé, vous devez utiliser cette commande :
+**Quand vous êtes en jeu et que le plugin est chargé, vous devez utiliser cette commande :**
 
 */msgstaff {joueur} {message}*
 
